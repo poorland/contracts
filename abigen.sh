@@ -1,0 +1,1 @@
+abigen --abi=./abi/contracts/PoorLandMetaverse.sol/PoorLandMetaverse.json --type "PoorLandMetaverse" --pkg=PoorLandMetaverse --out=PoorLandMetaverse.go
